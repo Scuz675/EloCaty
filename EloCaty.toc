@@ -1,6 +1,7 @@
 ## Interface: 11200
-## Title: EloCaty |FF7C0A by Skazz @ Tel'Abim|r
+## Title: EloCaty by |cffff7c0aSkazz|cffcccccc[Tel'Abim]|cff7fff7fTurtleWoW
 ## Author: Skazz
+## Notes: A one-button helper addon for Vanilla-era WoW clients
 ## Version: 1.0
 
 EloCaty.lua
