@@ -37,34 +37,3 @@ Create a macro:
 ```lua
 /script EloCaty:Rota()
 ```
-
-## Publish on GitHub
-### A) Website upload (no git)
-1. Create a repo on GitHub named `EloCaty` (Public).
-2. In the repo, click **Add file → Upload files**.
-3. Upload `EloCaty.toc`, `EloCaty.lua`, and `README.md` (from inside the EloCaty folder).
-4. Commit.
-5. Optional: **Releases → Draft a new release**, tag `v1.0`, attach your zip, publish.
-
-### B) Using git (best for updates)
-1. Install Git (Windows): https://git-scm.com/downloads
-2. Put the files in a folder named `EloCaty`.
-3. In that folder, run:
-```bash
-git init
-git add .
-git commit -m "EloCaty v1.0"
-```
-4. Create a GitHub repo named `EloCaty`.
-5. Add remote + push:
-```bash
-git branch -M main
-git remote add origin https://github.com/<YOUR_USERNAME>/EloCaty.git
-git push -u origin main
-```
-6. For updates:
-```bash
-git add .
-git commit -m "Update"
-git push
-```
