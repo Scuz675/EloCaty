@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: EloCaty |FF7C0A by Skazz @ Tel'Abim|r
+## Author: Skazz
+## Version: 1.0
+
+EloCaty.lua
